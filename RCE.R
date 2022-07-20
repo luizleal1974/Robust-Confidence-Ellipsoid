@@ -6,7 +6,7 @@ ellipsoid = function(x, y, z, segments = 51, robust = TRUE, level = 0.95){
       center <- v$center
     }
     else {
-        v <- cov.wt(cbind(x, y))
+        v <- cov.wt(cbind(x, y, z))
         shape <- v$cov
         center <- v$center
     }
