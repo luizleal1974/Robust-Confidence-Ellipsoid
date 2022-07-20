@@ -3,6 +3,6 @@
  
  The robust confidence ellipsoid (RCE) is built from the matrix equation
  
- $\hat{\mu}_{rob}$
+ $\hat{\mu}_{rob} = \left( \sqrt{3 \cdot F_{3 ; (n-1) ; (1- \alpha)}} \right) \cdot U \cdot Q$
  
- R code for build Robust Confidence Ellipsoid. $x_{11}$ $\sqrt{F_1}$
+ 
