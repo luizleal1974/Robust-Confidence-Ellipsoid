@@ -6,8 +6,10 @@
 
 <p align="center">
 <img src="RCE.png" alt="Drawing"/>
+<b>Figure 1.</b> 95% Robust Confidence Ellipsoid (RCE).
 </p>
-<center>Figure 1. 95% Robust Confidence Ellipsoid (RCE).</center>
+
+</br>
 
 # Citation
 
