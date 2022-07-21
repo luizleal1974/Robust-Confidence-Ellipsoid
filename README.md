@@ -1,6 +1,6 @@
 # Robust Confidence Ellipsoid
 
-$\sqrt{F_{3 ; (n-1) ; 1}}$
+$\sqrt{F_{3 ; (n-1) ; (1- \alpha)}}$
 
 
 # Citation
