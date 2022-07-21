@@ -51,7 +51,7 @@ add_text(x = dfr[,"x"],
          y = dfr[,"y"],
          z = dfr[,"z"],
          text = ~dfr[,1],
-         opacity = 0.5,
+         opacity = 1,
          textfont = list(family = "sans serif", size = 18, color = toRGB("black")),
          textposition = "middle center",
          name = 'Object') %>%
