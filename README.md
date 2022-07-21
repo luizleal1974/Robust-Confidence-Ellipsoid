@@ -2,6 +2,10 @@
 
 It is a statistical method for outlier detection in a multivariate data set. This repository provides a R code for build it.
 
+<p align="center">
+<img src="RCE.png" alt="Drawing"/>
+</p>
+
 
 # Citation
 
