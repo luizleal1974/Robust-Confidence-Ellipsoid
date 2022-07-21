@@ -1,9 +1,9 @@
 # Robust Confidence Ellipsoid
 
 
+$\hat{\mu}_{rob}=$
 
-
-$\hat{\mu}_{rob}=\left( \sqrt{F_{3 ; (n-1) ; (1- \alpha)}} \right) \cdot U \cdot Q$
+$\left( \sqrt{F_{3 ; (n-1) ; (1- \alpha)}} \right) \cdot U \cdot Q$
 
 # Citation
 
