@@ -1,6 +1,8 @@
 # Robust Confidence Ellipsoid
- 
- 
+
+$\sqrt{F_{3}}$
+
+
 # Citation
 
 Please cite the following thesis when using `RCE.R`:
