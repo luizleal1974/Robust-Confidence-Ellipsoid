@@ -4,7 +4,7 @@ It is a statistical method for outlier detection in a multivariate data set. Thi
 
 ```r
 # If necessary
-# install.packages(c("xlsx", "plotly", ""))
+# install.packages(c("xlsx", "plotly", "pracma"))
 
 # Load packages
 library(xlsx)
