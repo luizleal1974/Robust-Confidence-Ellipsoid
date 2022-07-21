@@ -18,7 +18,7 @@
 
 <div align="justify">
   
-<p>Please cite the following thesis when using [<b>RCE.R</b>](RCE.R):</p>
+<p>Please cite the following thesis when using [RCE](RCE.R):</p>
 
 <p>[1] LEAL, Luiz Henrique da Conceição. <b>Web application for laboratory performance assessment.</b> 2022. 146f. Thesis (Doctorate in Metrology) - National Institute of Metrology, Quality, and Technology, Duque de Caxias, RJ, 2022.</p>
 
