@@ -3,6 +3,8 @@
 $\sqrt{F_{3 ; (n-1) ; (1- \alpha)}}$
 
 
+$\left( \sqrt{F_{3 ; (n-1) ; (1- \alpha)}} \right)$
+
 # Citation
 
 Please cite the following thesis when using `RCE.R`:
