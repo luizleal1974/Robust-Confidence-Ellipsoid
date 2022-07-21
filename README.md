@@ -3,6 +3,9 @@
 It is a statistical method for outlier detection in a multivariate data set. This repository provides a R code for build it.
 
 ```r
+# If necessary
+# install.packages(c("xlsx", "plotly", ""))
+
 # Load packages
 library(xlsx)
 library(plotly)
