@@ -1,10 +1,8 @@
 # Robust Confidence Ellipsoid
  
  
- The robust confidence ellipsoid (RCE) is built from the matrix equation
- 
- $\hat{\mu}_{rob} = \left( \sqrt{3 F_{3 ; (n-1) ; (1- \alpha)}} \right)$
- 
- 
- 
- = \left( \sqrt{3 \cdot } \right) \cdot U \cdot Q
+# Citation
+
+Please cite the following thesis when using `RCE.R`:
+
+LEAL, Luiz Henrique da Conceição. <b>Aplicativo web para avaliação de desempenho de laboratórios.</b> 2022. 146f. Tese (Doutorado em Metrologia) – Instituto Nacional de Metrologia, Qualidade e Tecnologia, Duque de Caxias, RJ, 2022.
