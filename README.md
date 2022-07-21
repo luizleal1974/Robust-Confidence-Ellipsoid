@@ -1,8 +1,8 @@
-<div align="justify">
-
 # Robust Confidence Ellipsoid
 
-<p>It is a statistical method for outlier detection in a multivariate data set. This repository provides a R function for build it. The R code to reproduce figure 1 is available at <a target='_blank' rel='noopener noreferrer' href='https://statisticalmetrology.shinyapps.io/basicstat/'>Estatística Básica</a>.</p>
+<div align="justify">
+
+<p>It is a statistical method for outlier detection in a multivariate data set. This repository provides a R function for build it. The R code to reproduce <b>Figure 1</b> is available at <a target='_blank' rel='noopener noreferrer' href='https://statisticalmetrology.shinyapps.io/basicstat/'>Estatística Básica</a>.</p>
 
 <p align="center">
 <img src="RCE.png" alt="Drawing"/>
