@@ -14,5 +14,5 @@
   
 <p align="justify">Please cite the following references when using <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/Robust-Confidence-Ellipsoid/raw/main/RCE.R'>RCE.R</a>:</p>
 
-<p align="justify">[1] LEAL, Luiz Henrique da Conceição. <b>Web application for laboratory performance assessment.</b> 2022. 146f. Thesis (Doctorate in Metrology) - National Institute of Metrology, Quality, and Technology, Duque de Caxias, RJ, 2022. [<b>`(click here)`</b>](Doctoral_Thesis.pdf)</p>
+<p align="justify">[1] LEAL, Luiz Henrique da Conceição. <b>Web application for laboratory performance assessment.</b> 2022. 146f. Thesis (Doctorate in Metrology) - National Institute of Metrology, Quality, and Technology, Duque de Caxias, RJ, 2022. <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/Robust-Confidence-Ellipsoid/raw/main/Doctoral_Thesis.pdf'>(click here)</a></p>
 
