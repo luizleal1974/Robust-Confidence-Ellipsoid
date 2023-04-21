@@ -10,13 +10,9 @@
 
 </br>
 
-# Citation
-  
-<p align="justify">Please cite the following references when using <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/Robust-Confidence-Ellipsoid/blob/main/RCE.R'>RCE.R</a>:</p>
+# Reference
 
-<p align="justify">[1] LEAL, Luiz Henrique da Conceição. <b>Web application for laboratory performance assessment.</b> 2022. 146f. Thesis (Doctorate in Metrology) - National Institute of Metrology, Quality, and Technology, Duque de Caxias, RJ, 2022. <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/Robust-Confidence-Ellipsoid/blob/main/Doctoral_Thesis.pdf'><img src="https://img.shields.io/badge/CDD-006.76-green.svg" alt="drawing"/></a></p>
-
-<p align="justify">[2] Leal LHC, Rocha WFC. A New Approach for Multivariate Data Analysis in Interlaboratory Comparisons Based on Multidimensional Scaling and Robust Confidence Ellipse. <i>J. Braz. Chem. Soc</i>. 2023;34(3):434-440. <a target='_blank' rel='noopener noreferrer' href='https://dx.doi.org/10.21577/0103-5053.20220121'><img src="https://img.shields.io/badge/doi-10.21577/0103.5053.20220121-yellow.svg" alt="drawing"/></a></p>
+<p align="justify">[1] Leal LHC, Rocha WFC. A New Approach for Multivariate Data Analysis in Interlaboratory Comparisons Based on Multidimensional Scaling and Robust Confidence Ellipse. <i>J. Braz. Chem. Soc</i>. 2023;34(3):434-440. <a target='_blank' rel='noopener noreferrer' href='https://dx.doi.org/10.21577/0103-5053.20220121'><img src="https://img.shields.io/badge/doi-10.21577/0103.5053.20220121-yellow.svg" alt="drawing"/></a></p>
 
 </br>
 
