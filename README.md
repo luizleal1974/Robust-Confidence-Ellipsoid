@@ -12,7 +12,7 @@
 
 # Reference
 
-<p align="justify">[1] Leal LHC, Rocha WFC. A New Approach for Multivariate Data Analysis in Interlaboratory Comparisons Based on Multidimensional Scaling and Robust Confidence Ellipse. <i>J. Braz. Chem. Soc</i>. 2023;34(3):434-440. <a target='_blank' rel='noopener noreferrer' href='https://dx.doi.org/10.21577/0103-5053.20220121'><img src="https://img.shields.io/badge/doi-10.21577/0103.5053.20220121-yellow.svg" alt="drawing"/></a></p>
+<p align="justify">[1] Leal LHC, Rocha WFC. A New Approach for Multivariate Data Analysis in Interlaboratory Comparisons Based on Multidimensional Scaling and Robust Confidence Ellipse. <i>J. Braz. Chem. Soc</i>. 2023;34(3):434-440. <a target='_blank' rel='noopener noreferrer' href='https://dx.doi.org/10.21577/0103-5053.20220121'><img src="https://img.shields.io/badge/doi-10.21577/0103.5053.20220121-yellow.svg" alt="drawing"/></a> <a target='_blank' rel='noopener noreferrer' href='https://jbcs.sbq.org.br/default.asp?ed=336'><code>(Volume 34, Number 3, March 2023)</code></a></p>
 
 </br>
 
