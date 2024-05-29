@@ -19,3 +19,4 @@
 # Note
 
 <p align="justify">See the <a target='_blank' rel='noopener noreferrer' href='https://github.com/luizleal1974/Robust-Confidence-Ellipsoid/blob/main/Note.pdf'>note</a> about equation 14 of reference [1] mentioned above.</p>
+
